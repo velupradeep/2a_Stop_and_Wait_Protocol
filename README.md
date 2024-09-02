@@ -43,7 +43,7 @@ while True:
 
 ```
 ## OUTPUT
-![WhatsApp Image 2024-09-02 at 14 33 51_673f267a](https://github.com/user-attachments/assets/4490dc63-19e6-459f-a4d2-68f71465de6a)
+![image](https://github.com/user-attachments/assets/ad0952cd-a3bc-465b-8d2a-d730cc521c42)
 
 
 ## RESULT
